@@ -1,0 +1,10 @@
+//All ip address that are writter here 
+//Are being banned form the website
+//These ip addresses below are just a example
+10.118.254.218
+185.24.220.52
+185.24.220.53
+185.24.220.54
+185.24.220.55
+185.24.220.56
+185.24.220.57
